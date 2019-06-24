@@ -54,7 +54,6 @@ const styles = StyleSheet.create({
     },
     gameBoxText: {
         fontSize: 52,
-        fontFamily: 'sans-serif',
         textShadowRadius: 10,
         textShadowOffset: { width: 1, height: 1 },
         textShadowColor: 'rgba(0, 0, 0, .8)',
